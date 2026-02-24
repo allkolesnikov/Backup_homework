@@ -15,4 +15,4 @@
 ## Задание 2
 
 ### Скриншот работы скрипта
-![copy](Images/copy.png)
+![copy](Images/Copy.png)
