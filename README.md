@@ -6,9 +6,11 @@
 
 ## Задание 1
 
-### Скриншот настройки роутера 1
-![Router1](Images/rout1.png)
+### Скриншот команды rsync 1
+![rsync](Images/rsync1.png)
 
+### Скриншот команды rsync 2
+![rsync](Images/rsync2.png)
 
 ## Задание 2
 
